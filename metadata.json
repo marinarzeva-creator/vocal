@@ -1,0 +1,6 @@
+{
+  "name": "Творчий простір Катерини Жанько",
+  "description": "Уроки вокалу та фортепіано в Києві (вул. Максима Кривоноса 27). Індивідуальні заняття, вокал як терапія та пробний урок.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
